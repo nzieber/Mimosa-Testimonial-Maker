@@ -1,0 +1,7 @@
+{
+  "name": "Mimosa Testimonial Builder",
+  "description": "A high-performance tool for workshop participants to generate polished testimonials for Blog, LinkedIn, X, and Email using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
